@@ -1,5 +1,5 @@
 /* This program calculates interpolation of a data set using Lagrange interpolator
- and output the interpolated value Y at a give point X. */
+ and output the interpolated value Y at a given point X. */
 
 #include <iostream>
 #include <cmath>
