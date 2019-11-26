@@ -1,5 +1,5 @@
 /* Vector space definitions*/
-// row is an row vector object 
+// row is a row vector object 
 class row{
 
 	double *r;
